@@ -40,10 +40,18 @@ If all questions are answered incorrectly, or you run out of time to complete th
 
 However, if all questions are answered correctly, the time left on the timer is saved as the score.
 
-By clicking submit, the highscore is saved to local storage and the webpage is reset to the landing page. The highscore can be viewed by clicking the 'View Highscores' link which redirects user to highscores page. The user can navigate back to the quiz or clear storage by clicking 'Go Back' or 'Clear Highscores' respectively Screenshot of highscore page
+![Alt text](./Screenshot%202023-02-10%20at%2009.38.01.png)
 
-Credits
+When prompted to enter initials to register highscore, the highscore is saved to local storage and the webpage is reset to the landing page. The highscore can be viewed by clicking the 'View Highscores' link which redirects you to the highscores page. You can navigate back to the quiz or clear the storage by clicking 'Go Back' or 'Clear Highscores' respectivel.
+
+### Screenshot of highscore page
+
+![Alt text](./Screenshot%202023-02-10%20at%2009.40.27.png)
+
+## Credits
+
 N/A
 
-License
+## License
+
 Please refer to the LICENSE in the repo.
