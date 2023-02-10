@@ -30,13 +30,13 @@ var questions = [
     isCorrect: "alerts",
   },
   {
-    title: "In this example, how does a FOR loop start?",
+    title: "What does 'CSS' stand for?",
     options: [
-      "for (i = 0; i <= 5; i++)",
-      "for (i = 0; i <= 5)",
-      "for i = 1 to 5",
-      "for (i <= 5; i++)",
+      "cascading still sheet",
+      "cyber security software",
+      "cascading style sheet",
+      "competitive selector syntax",
     ],
-    isCorrect: "for (i = 0; i <= 5; i++)",
+    isCorrect: "cascading style sheet",
   },
 ];
