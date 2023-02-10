@@ -20,17 +20,25 @@ N/A
 
 ## Usage
 
-To access the quiz, please click here:[(https://o1ujok3.github.io/of-quiz-app/)]
+To access the quiz, please click here:"[(https://o1ujok3.github.io/of-quiz-app/)]
 
-In order to start the quiz, click the 'Start Quiz' button.
+In order to start the quiz, click the 'Start Quiz' button as displayed in the screenshot below.
 
 ### Screenshot of landing page for the quiz
 
-Click on one of the four options to answer the question. If the response is incorrect 10 seconds is deducted from the timer. Screenshot of quiz started
+![Alt text](./Screenshot%202023-02-10%20at%2009.19.46.png)
 
-If all questions answered incorrectly, or user runs out of time the score will be zero.
+After you start the quiz, you'd be directed to select on one of the four options to answer the question. If the response is incorrect 10 seconds will be deducted from the timer.
 
-If all questions answered correctly, time left on the timer is saved as the score.
+### Screenshot of questions in quiz
+
+![Alt text](./Screenshot%202023-02-10%20at%2009.23.02.png)
+
+If all questions are answered incorrectly, or you run out of time to complete the quiz, the score will be zero.
+
+![Alt text](./Screenshot%202023-02-10%20at%2009.27.24.png)
+
+However, if all questions are answered correctly, the time left on the timer is saved as the score.
 
 By clicking submit, the highscore is saved to local storage and the webpage is reset to the landing page. The highscore can be viewed by clicking the 'View Highscores' link which redirects user to highscores page. The user can navigate back to the quiz or clear storage by clicking 'Go Back' or 'Clear Highscores' respectively Screenshot of highscore page
 
